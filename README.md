@@ -1,7 +1,8 @@
 <h1 align="center">Hello there, I'm Kishore</h1>
 <h3 align="center">I'm a Software Engineer🐱‍💻, Photographer📸, and Biker🏍️!</h3>
 
-https://user-images.githubusercontent.com/45071341/130478179-7d27d16b-8e3e-4858-8a48-6c4b3af898b6.mp4
+![banner](https://user-images.githubusercontent.com/45071341/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorep26&label=Profile%20views&color=0e75b6&style=flat" alt="kishorep26" /> </p>
 
