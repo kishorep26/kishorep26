@@ -4,27 +4,12 @@
 ![banner](https://user-images.githubusercontent.com/45071341/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorep26&label=Profile%20views&color=0e75b6&style=flat" alt="kishorep26" /> </p>
-
-- 🔭 I’m currently working on **old projects**
-
-- 🌱 I’m currently learning **courses**
-
-- 👯 I’m looking to collaborate on **web development**
-
-- 🤝 I’m looking for help with **react and node**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kishorep26](https://github.com/kishorep26)
 
 - 📝 I regularly write articles on [https://medium.com/@kishorep.shrivatsa](https://medium.com/@kishorep.shrivatsa)
 
-- 💬 Ask me about **machine learning, biking**
-
-- 📫 How to reach me **kp.shrivatsa@gmail.com**
-
 - 📄 Know about my experiences [https://1drv.ms/w/s!AkaA_d-SJb-_knOtQDD4NvVBG0sg](https://1drv.ms/w/s!AkaA_d-SJb-_knOtQDD4NvVBG0sg)
 
-- ⚡ Fun fact **I think I'm pretty good at video games!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
