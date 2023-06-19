@@ -1,5 +1,4 @@
 <h1 align="center">Hello there, I'm Kishore</h1>
-<h3 align="center">I'm a Software Engineer🐱‍💻, Photographer📸, and Biker🏍️!</h3>
 
 ![banner](https://user-images.githubusercontent.com/45071341/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)
 
