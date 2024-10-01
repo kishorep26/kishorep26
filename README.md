@@ -1,10 +1,10 @@
 # Hi, I'm Kishore Prashanth 👋👨‍💻
 
+I'm a software engineer who is passionate about creating technology to elevate people and build a community. Some technologies I enjoy working with include ReactJS and Python.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-I'm a software engineer who is passionate about creating technology to elevate people and build a community. Some technologies I enjoy working with include ReactJS and Python.
 
 ## Find me around the web 🌎:
 
