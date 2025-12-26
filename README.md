@@ -1,118 +1,177 @@
 <div align="center">
 
-# Hi, I'm Kishore Prashanth
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kishore+Prashanth;Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Engineer+%F0%9F%A4%96;Master's+in+IT+%40+ASU+%F0%9F%8E%93" alt="Typing SVG" />
 
-### Full-Stack Developer | AI/ML Engineer | Master's in IT @ ASU
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```typescript
+const kishore = {
+    role: "Software Developer | AI/ML Engineer",
+    education: "Master's in Information Technology @ Arizona State University",
+    currentFocus: ["AI Agent Systems", "Cloud Architecture", "Cybersecurity"],
+};
+```
+
+🔭 Currently building **intelligent systems** with AI/ML and full-stack technologies  
+🌱 Pursuing **Azure certifications** (AZ-400, SC-200, Defender for Cloud)  
+💻 Specializing in **full-stack development**, **AI/ML**, and **cybersecurity solutions**  
+🎯 Passionate about **smart city technologies** and **cyber immune systems** 
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Tools & Frameworks
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ Helix - AI Cyber Immune System
+**Multi-agent AI network for autonomous threat detection**
+
+🔹 Real-time threat intelligence aggregation  
+🔹 Autonomous incident response  
+🔹 Federated learning for privacy  
+
+**Tech:** Python, TensorFlow, Next.js, PostgreSQL
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishorep26/helix-ai-cyber-immune-system)
+
+</td>
+<td width="50%">
+
+### 🏙️ Sentinel Command
+**Smart city management with AI-powered insights**
+
+🔹 Real-time infrastructure monitoring  
+🔹 Predictive analytics dashboard  
+🔹 AI agent coordination system  
+
+**Tech:** TypeScript, React, Node.js, Supabase
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishorep26/sentinel-command-frontend)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 SEIS - Student Enrollment System
+**Enterprise-grade enrollment with RBAC**
+
+🔹 Role-based access control  
+🔹 Automated workflows  
+🔹 Real-time notifications  
+
+**Tech:** Java, Spring Boot, React, PostgreSQL
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishorep26/seis)
+
+</td>
+<td width="50%">
+
+### 🚗 Automobile Price Prediction
+**ML-powered vehicle valuation system**
+
+🔹 Advanced regression models  
+🔹 Real-time price predictions  
+🔹 Interactive visualization  
+
+**Tech:** Python, Scikit-learn, Flask, React
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishorep26/automobile-price-prediction)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kishorep26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorep26&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorep26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorep26&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=C9D1D9" alt="Activity Graph" width="48%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kishore-prashanth.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorep26/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kishorep26/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorep2629@gmail.com)
 
-</div>
-
----
-
-## About Me
-
-Passionate software engineer building intelligent systems that solve real-world problems. Specializing in full-stack development, AI/ML, and cybersecurity solutions. Currently pursuing Azure certifications while developing cutting-edge applications.
-
-### Current Focus
-- Building AI-powered cybersecurity platforms
-- Mastering Azure cloud services (AZ-400, Defender for Cloud)
-- Contributing to open-source projects
-- Exploring federated learning and explainable AI
-
----
-
-## Featured Projects
-
-### HELIX - AI Cyber Immune Network
-Advanced self-healing cybersecurity platform achieving **99.1% malware detection accuracy**
-
-**Tech Stack:** Next.js, TypeScript, TensorFlow, Docker, Federated Learning
-
-[View Project](https://github.com/kishorep26/helix-ai-cyber-immune-system) | [Live Demo](https://ai-cyber-immune-network.vercel.app)
-
-### Sentinel Command Platform
-Full-stack security monitoring system with real-time threat analysis and command dashboard
-
-**Tech Stack:** React, TypeScript, FastAPI, SQLAlchemy, Material-UI
-
-[Frontend](https://github.com/kishorep26/sentinel-command-frontend) | [Backend](https://github.com/kishorep26/sentinel-command-backend) | [Live Demo](https://sentinel-command-frontend.vercel.app)
-
-### Student Enrollment Information System (SEIS)
-Enterprise-grade enrollment platform with role-based access control and real-time analytics
-
-**Tech Stack:** Next.js, Firebase, TypeScript, Tailwind CSS
-
-[View Project](https://github.com/kishorep26/student-enrollment-information-system) | [Live Demo](https://student-enrollment-information-system.vercel.app)
-
----
-
-## Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishorep26&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorep26&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishorep26&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## Notable Achievements
-
-- Master's in Information Technology, Arizona State University (4.0 GPA)
-- Developed HELIX AI achieving 99.1% malware detection accuracy
-- Built and deployed 9+ full-stack production applications
-- Pursuing Azure certifications (AZ-400, Defender for Cloud)
-
----
-
-## Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kishore-prashanth.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorep26/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1055-6464)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 </div>
 
@@ -120,8 +179,19 @@ Enterprise-grade enrollment platform with role-based access control and real-tim
 
 <div align="center">
 
-**Open to collaborations and exciting opportunities!**
+### 💭 Dev Quote of the Day
 
-![Profile Views](https://komarev.com/ghpvc/?username=kishorep26&color=brightgreen&style=for-the-badge)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+### 😂 Here's a Random Dev Meme
+
+<img src="https://rm.up.railway.app/" width="512px" alt="Meme"/>
+
+---
+
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" alt="Wave">
+
+**✨ Thank you for visiting my profile! Let's build something amazing together! ✨**
 
 </div>
