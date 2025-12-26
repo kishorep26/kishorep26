@@ -148,20 +148,6 @@ const kishore = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kishorep26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorep26&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorep26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorep26&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=C9D1D9" alt="Activity Graph" width="48%" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -172,12 +158,6 @@ const kishore = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorep2629@gmail.com)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
-
-</div>
-
----
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" alt="Wave">
 
 **✨ Thank you for visiting my profile! Let's build something amazing together! ✨**
 
